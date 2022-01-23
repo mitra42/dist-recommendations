@@ -1,0 +1,20 @@
+[
+{
+  "key": "A1B2C3",
+  "inertia": 10,
+  "label": "http://mitra.biz",
+  "data": {
+    "name": "Mitra",
+    "url": "http://mitra.biz"
+  }
+},
+{
+  "key": "A1B0D4",
+  "inertia": 10,
+  "label": "http://google.com",
+  "data": {
+    "name": "Google",
+    "url": "http://google.com"
+  }
+}
+]
